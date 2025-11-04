@@ -50,7 +50,8 @@ function HomePage() {
               Replace manual DM setters with AI systems that qualify leads, book calls, and boost efficiency. The future of sales automation is here.
             </p>
             <a 
-              href="https://api.connectconvert.co/widget/booking/GE14yV4n3svoEAbjPmza"
+              href="https://ghl.connectconvert.co/widget/bookings/connectconvert
+              "
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-pink-500 to-blue-500 px-8 py-4 rounded-full text-lg font-semibold hover:opacity-90 transition-opacity flex items-center mx-auto inline-flex"
@@ -130,7 +131,8 @@ function HomePage() {
               Book a demo call to see how Connect & Convert can transform your business with AI-powered lead generation.
             </p>
             <a 
-              href="https://api.connectconvert.co/widget/booking/GE14yV4n3svoEAbjPmza"
+              href="https://ghl.connectconvert.co/widget/bookings/connectconvert
+              "
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-pink-500 to-blue-500 px-8 py-4 rounded-full text-lg font-semibold hover:opacity-90 transition-opacity flex items-center mx-auto inline-flex"
